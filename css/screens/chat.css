@@ -6,5 +6,14 @@
   position: fixed;
   width: 100%;
   box-sizing: border-box;
-  top: 10px;
+  top: 19px;
+}
+
+#chat-screen .alt-header,
+#chat-screen .status-bar {
+  background-color: #aac1d1;
+}
+
+.main-chat {
+  margin-top: 100px;
 }
